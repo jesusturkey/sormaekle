@@ -1,7 +1,3 @@
-
-// Bu örnek Cloudstream eklentisi test içindir.
-// Gerçek veri çekmez ama eklentinin düzgün çalıştığını gösterir.
-
 package com.filmmodu
 
 import com.lagradost.cloudstream3.*
