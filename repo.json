@@ -1,11 +1,11 @@
 {
-    "name": "Filmmodu Eklenti Deposu",
-    "description": "jesusturkey taraf\u0131ndan haz\u0131rlanan Cloudstream plugin deposu",
-    "plugins": [
-        {
-            "name": "Filmmodu",
-            "filename": "filmmodu.cs3",
-            "version": "1.0.0"
-        }
-    ]
+  "name": "Filmmodu Eklenti Deposu",
+  "description": "jesusturkey tarafından hazırlanan Cloudstream plugin deposu",
+  "plugins": [
+    {
+      "name": "Filmmodu",
+      "file": "filmmodu.cs3",
+      "version": "1.0.0"
+    }
+  ]
 }
