@@ -1,37 +1,7 @@
 {
-  "name": "Özel Türkçe Repo",
-  "version": 2,
-  "description": "Film, dizi ve TV içerikleri için özel kaynaklar.",
-  "categories": {
-    "film": [
-      {
-        "name": "FilmModu",
-        "url": "https://raw.githubusercontent.com/jesusturkey/repo/main/providers/filmodu.cs",
-        "language": "tr",
-        "working": true,
-        "quality": ["HD", "4K"],
-        "author": "jesusturkey"
-      }
-    ],
-    "dizi": [
-      {
-        "name": "DiziKaynak1",
-        "url": "PROVIDER_LINKİNİZ",
-        "language": "tr",
-        "working": false
-      }
-    ],
-    "tv": [
-      {
-        "name": "TVKanalları",
-        "url": "PROVIDER_LINKİNİZ",
-        "type": "live",
-        "country": "tr"
-      }
-    ]
-  },
-  "notices": {
-    "updates": "Yeni eklenenler için repo sürümünü artırın!",
-    "warning": "Çalışmayan provider'ları 'working: false' yapın."
-  }
+  "name": "TÜRKÇE FİLM ARŞİVİ",
+  "version": 1,
+  "providers": [
+    "https://raw.githubusercontent.com/jesusturkey/cloud/main/denemefilm.cs"
+  ]
 }
