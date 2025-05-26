@@ -1,7 +1,7 @@
 {
-  "name": "TÜRKÇE FİLM ARŞİVİ",
-  "version": 1,
+  "name": "FilmModu Repo",
+  "version": 2,
   "providers": [
-    "https://raw.githubusercontent.com/jesusturkey/cloud/main/denemefilm.cs"
+    "https://raw.githubusercontent.com/jesusturkey/cloud/main/filmodu.cs"
   ]
 }
